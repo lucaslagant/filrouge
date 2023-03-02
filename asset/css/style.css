@@ -67,3 +67,9 @@
 .w-87 {
     width: 87%;
 }
+.pad-20 {
+    padding-left: 15rem;
+    padding-right: 15rem;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
